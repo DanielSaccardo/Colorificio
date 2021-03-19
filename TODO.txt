@@ -1,0 +1,13 @@
+• Altra pagina => Tips
+• Lampada di segnalazione del sensore di presenza sulla bilancia / coperchiatrice
+• Rimodellare il coperchio
+• Degin migliore pagina ricette
+• Visualizzazione grafica e graduale del colore nella tramoggia 
+• Visualizzazione grafica del colore nel barattolo
+• Animazione per gli ingranaggi della coperchiatrice
+• Miglior sistema della coperchiatrice
+• Cambiare il colore dei pulsanti (SB0 -> Bianco; SB1 -> Nero)
+• Documento descrittivo del processo
+• Pagina descrittiva
+• Filmato
+• Gestire meglio il sistema della quantità dei colori (lampade comprese)
